@@ -1,0 +1,30 @@
+_repo: The-SS-Glory_59343
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Holmes, F. M. (Frederic Morell)
+    alias: Holmes, Frederic Morell
+    birthdate: 1851
+    gutenberg_agent_id: '32132'
+    url: http://www.gutenberg.org/2009/agents/32132
+creator:
+  author:
+    agent_name: Niven, Frederick
+    alias: Niven, Frederick John
+    birthdate: 1878
+    deathdate: 1944
+    gutenberg_agent_id: '42510'
+    url: http://www.gutenberg.org/2009/agents/42510
+description: ''
+gutenberg_issued: '2019-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The S.S. Glory
+url: http://www.gutenberg.org/ebooks/59343
