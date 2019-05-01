@@ -1,5 +1,5 @@
 _repo: The-SS-Glory_59343
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Holmes, F. M. (Frederic Morell)
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1851
     gutenberg_agent_id: '32132'
     url: http://www.gutenberg.org/2009/agents/32132
+covers:
+- cover_type: archival
+  image_path: 59343-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Niven, Frederick
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '42510'
     url: http://www.gutenberg.org/2009/agents/42510
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59343#The-SS-Glory
 gutenberg_issued: '2019-04-24'
 gutenberg_type: Text
 identifiers:
